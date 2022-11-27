@@ -8,7 +8,12 @@ body {
 }
 .profile{
     
-}.btn {
+}
+.main-div {
+    position: absolute;
+}
+
+.btn {
     background: #00d0d4;
     background-image: -webkit-linear-gradient(top, #00d0d4, #0874a6);
     background-image: -moz-linear-gradient(top, #00d0d4, #0874a6);
