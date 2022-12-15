@@ -136,7 +136,7 @@ background-color: #92ecfc;
     height: 3%;
 }
 
-.footer-link{
+.footer-link {
    border-style: solid;
    border-radius: 14%;
    padding: 3px 8px;
@@ -145,9 +145,10 @@ background-color: #92ecfc;
    margin: 0px 9% 0px 9%;
    font-size: 1.3rem;
 }
+
 #steve{
     margin: 1% 1% 0% 81%;
 }
-p{
+p {
     margin: 3% 10% -12% 25%;
 }
