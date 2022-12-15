@@ -137,9 +137,13 @@ background-color: #92ecfc;
 }
 
 .footer-link{
-    color: #11999E;
-    margin: 0px 9% 0px 9%;
-    font-size: 1.3rem;
+   border-style: solid;
+   border-radius: 14%;
+   padding: 3px 8px;
+   text-decoration-line: none; 
+   color: #11999E;
+   margin: 0px 9% 0px 9%;
+   font-size: 1.3rem;
 }
 #steve{
     margin: 1% 1% 0% 81%;
